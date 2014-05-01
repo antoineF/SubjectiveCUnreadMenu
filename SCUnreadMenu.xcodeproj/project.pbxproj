@@ -249,9 +249,6 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Subjective-C";
 				TargetAttributes = {
-					A804B77718D553D500553B20 = {
-						DevelopmentTeam = 669M58K74Z;
-					};
 					A804B79218D553D500553B20 = {
 						TestTargetID = A804B77718D553D500553B20;
 					};
